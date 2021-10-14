@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/micheldescham/services01#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10",
     "nodemon": "^2.0.13"
   }
 }
