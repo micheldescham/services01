@@ -1,0 +1,23 @@
+{
+  "name": "services01",
+  "version": "1.0.0",
+  "description": "projet node pour cours Programmation services web",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micheldescham/services01.git"
+  },
+  "author": "Michel Deschambault",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micheldescham/services01/issues"
+  },
+  "homepage": "https://github.com/micheldescham/services01#readme",
+  "dependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
